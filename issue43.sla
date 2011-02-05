@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.0.svn">
-    <DOCUMENT ANZPAGES="33" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="3" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="11" DCOL="1" DGAP="11.3386" TabFill="" TabWidth="36" AUTHOR="various" COMMENTS="http://www.fullcirclemagazine.org" KEYWORDS="" PUBLISHER="" DOCDATE="September 2007" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Creative Commons ShareAlike v3" DOCCONTRIB="" TITLE="full circle" VHOCH="33" VHOCHSC="100" VTIEF="33" VTIEFSC="100" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="" DPPr="" DPIn="" DPInCMYK="" DPIn2="" DPIn3="" DISc="1" DIIm="0" ALAYER="4" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="10.0006" MAJGRID="50.0003" SHOWGRID="0" SHOWGUIDES="0" showcolborders="0" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="3.99969" GRAB="2" POLYC="15" POLYF="0.86077" POLYR="-6" POLYCUR="0" POLYFD="-12" POLYS="1" AutoSave="0" AutoSaveTime="600000" ScratchBottom="20.0013" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.0013" GapHorizontal="0" GapVertical="39.9997" StartArrow="0" EndArrow="0" PEN="header bar" BRUSH="pale" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="0" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="0" PASPECT="1" EmbeddedPath="0" HalfRes="2" dispX="10" dispY="10" constrain="15" MINORC="#d5ff57" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="3.99969" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4">
+    <DOCUMENT ANZPAGES="33" PAGEWIDTH="841.89" PAGEHEIGHT="595.276" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="3" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="11" DCOL="1" DGAP="11.3386" TabFill="" TabWidth="36" AUTHOR="various" COMMENTS="http://www.fullcirclemagazine.org" KEYWORDS="" PUBLISHER="" DOCDATE="September 2007" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Creative Commons ShareAlike v3" DOCCONTRIB="" TITLE="full circle" VHOCH="33" VHOCHSC="100" VTIEF="33" VTIEFSC="100" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="" DPPr="" DPIn="" DPInCMYK="" DPIn2="" DPIn3="" DISc="1" DIIm="0" ALAYER="19" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="10.0006" MAJGRID="50.0003" SHOWGRID="0" SHOWGUIDES="0" showcolborders="0" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="3.99969" GRAB="2" POLYC="15" POLYF="0.86077" POLYR="-6" POLYCUR="0" POLYFD="-12" POLYS="1" AutoSave="0" AutoSaveTime="600000" ScratchBottom="20.0013" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.0013" GapHorizontal="0" GapVertical="39.9997" StartArrow="0" EndArrow="0" PEN="header bar" BRUSH="pale" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="0" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="0" PASPECT="1" EmbeddedPath="0" HalfRes="2" dispX="10" dispY="10" constrain="15" MINORC="#d5ff57" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="3.99969" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="72" maxResolution="4800" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="72" maxResolution="4800" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="4800" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -59,9 +59,7 @@
         <LAYERS NUMMER="51" LEVEL="2" NAME="Editorial" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="52" LEVEL="10" NAME="Survey Results" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="0" PDLanguage="0" markOffset="1.18195353521129e-212" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="72" Resolution="72" Version="15" Intent="1" Intent2="1" SolidP="" ImageP="" PrintP="" InfoString="" BTop="39.9996850393701" BLeft="39.9996850393701" BRight="39.9996850393701" BBottom="39.9996850393701" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="fullcircle" PassUser="contributor" Permissions="-2359360" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="1" PageLayout="0" openAction="">
-            <Fonts Name="Arial Regular"/>
-            <Fonts Name="Courier 10 Pitch Bold"/>
+        <PDF firstUse="0" Thumbnails="1" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="72" Resolution="72" Version="15" Intent="1" Intent2="1" SolidP="" ImageP="" PrintP="" InfoString="" BTop="39.9996850393701" BLeft="39.9996850393701" BRight="39.9996850393701" BBottom="39.9996850393701" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="fullcircle" PassUser="contributor" Permissions="-2359360" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="1" PageLayout="0" openAction="">
             <Subset Name="AR PL UMing CN Light"/>
             <Subset Name="AR PL UMing TW Light"/>
             <Subset Name="DejaVu Sans Bold"/>
@@ -70,6 +68,7 @@
             <Subset Name="FreeSans Medium"/>
             <Subset Name="WenQuanYi Zen Hei Mono Regular"/>
             <Subset Name="WenQuanYi Zen Hei Regular"/>
+            <Subset Name="Courier 10 Pitch Bold"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -357,7 +356,7 @@
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
-            <ITEXT CH="A 销售那种计算机是由每个国家的经理决定的，其中就包括预装Ubuntu的型号。关于美国Dell对Ubuntu的感觉，可以参见：http://www.dell.com/content/topics/segtopic.aspx/ubuntu?c=us&amp;cs=19&amp;l=en&amp;s=dhs&amp;~ck=anavml"/>
+            <ITEXT CH="A 销售哪种计算机是由每个国家的经理决定的，其中就包括预装Ubuntu的型号。关于美国Dell对Ubuntu的感觉，可以参见：http://www.dell.com/content/topics/segtopic.aspx/ubuntu?c=us&amp;cs=19&amp;l=en&amp;s=dhs&amp;~ck=anavml"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para/>
             <para/>
@@ -365,7 +364,7 @@
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
-            <ITEXT CH="A （感谢Ubuntu论坛中的DaithiF）如果你的zip文件命是a，b和c，那么使用的命令就应该是： ls |grep a.zip b.zip c.zip,如果你看过grep的manpage，你会发现这个命令会在b.zip和c.zip中搜索字符串“a.zip”。所以你需要的命令是“ls | grep zip”。"/>
+            <ITEXT CH="A （感谢Ubuntu论坛中的DaithiF）如果你的zip文件名是a，b和c，那么使用的命令就应该是： ls |grep a.zip b.zip c.zip,如果你看过grep的manpage，你会发现这个命令会在b.zip和c.zip中搜索字符串“a.zip”。所以你需要的命令是“ls | grep zip”。"/>
             <para PARENT="Basic Text - 1st Paragraph"/>
             <para/>
             <para/>
@@ -1424,7 +1423,7 @@
             <ITEXT CH="我差三个月就整整70岁了，男性，已婚，已经当了祖父，一个对新技术有理性认识的人。"/>
             <para PARENT="Basic Text + indent"/>
             <para/>
-            <ITEXT CH="虽然我没有看到，这样一个栏目或者一组文章对于我们这些老人看起来也许并不会很吃力。我真的不认为我们缺乏什么知识，但是我们需要和IT学生同等的知识，或者受过培训的专科学生同样地信息。写作的风格应该尽量避免俚语和专业术语，或者有一堆在我们这些退休人员看来的生词。"/>
+            <ITEXT CH="虽然我没有看到，这样一个栏目或者一组文章对于我们这些老人看起来也许并不会很吃力。我真的不认为我们缺乏什么知识，但是我们需要和IT学生同等的知识，或者受过培训的专科学生同样的信息。写作的风格应该尽量避免俚语和专业术语，或者有一堆在我们这些退休人员看来的生词。"/>
             <para PARENT="Basic Text + indent"/>
             <para/>
             <ITEXT CH="你怎么想的？我不介意提供帮助，但是我有自己的一些工作，工作优先。"/>
@@ -1525,9 +1524,11 @@
             <nbspace/>
             <ITEXT CH="10.04"/>
             <nbspace/>
-            <ITEXT CH="LTS。有点戏剧性的是,这个古老的40"/>
+            <ITEXT CH="LTS。有点戏剧性的是,"/>
+            <ITEXT FONTSIZE="13" CH="这个古老的"/>
+            <ITEXT CH="40"/>
             <nbspace/>
-            <ITEXT CH="mHz"/>
+            <ITEXT CH="MHz"/>
             <nbspace/>
             <ITEXT CH="256MB的机器跑起来了，看起来比新的还好。"/>
             <para PARENT="Basic Text + indent"/>
@@ -1927,7 +1928,7 @@
             <ITEXT CH="你需要一台配置较高的电脑来运行《重力世界》。它对你的显卡要求不高，但对处理器的要求非常苛刻，主要是由于物理系统的缘故。在一些大型场景下会变得很卡。"/>
             <para PARENT="Basic Text + indent"/>
             <para/>
-            <ITEXT CH="《重力世界》是一款设计及其出色的简单游戏，不过在游戏最后会有些较难的关卡。游戏关卡很有趣，有了网上排行榜和竞速模式让它有了很大的重玩性。游戏画面很精美，且和游戏风格很相配。如果你是解密和跳板游戏的爱好者，可别错过了这款游戏。演示版本可以从这里：http://www.andyetitmoves.net下载到deb格式的安装包，提供了部分关卡的试玩。完整游戏售价10美元，且支持Windows、Mac和Linux系统。"/>
+            <ITEXT CH="《重力世界》是一款设计极其出色的简单游戏，不过在游戏最后会有些较难的关卡。游戏关卡很有趣，有了网上排行榜和竞速模式让它有了很大的重玩性。游戏画面很精美，且和游戏风格很相配。如果你是解密和跳板游戏的爱好者，可别错过了这款游戏。演示版本可以从这里：http://www.andyetitmoves.net下载到deb格式的安装包，提供了部分关卡的试玩。完整游戏售价10美元，且支持Windows、Mac和Linux系统。"/>
             <para PARENT="Basic Text + indent"/>
             <para/>
             <ITEXT FCOLOR="article inner header" FSHADE="100" CH="得分："/>
